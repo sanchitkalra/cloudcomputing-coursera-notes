@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "82f49c34c4818abc",
+        "id": "3350618d6005b8ca",
         "type": "tabs",
         "children": [
           {
-            "id": "67e6e4ef3301336d",
+            "id": "24b331d1ac3c8921",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts 1/Week 2/01. Gossip.md",
+                "file": "Concepts 1/Week 1/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts 1/Week 2/01. Gossip.md",
+                "file": "Concepts 1/Week 1/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts 1/Week 2/01. Gossip.md",
+                "file": "Concepts 1/Week 1/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts 1/Week 2/01. Gossip.md"
+                "file": "Concepts 1/Week 1/README.md"
               }
             }
           }
@@ -146,15 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67e6e4ef3301336d",
+  "active": "24b331d1ac3c8921",
   "lastOpenFiles": [
+    "Concepts.md",
+    "Concepts 1/Week 1/README.md",
+    "Concepts 1/Week 1/01. Introduction to Clouds.md",
+    "00..md",
+    "Concepts 1/Week 1/00. CS Basics.md",
+    "Concepts 1/Week 2/01. Gossip.md",
+    "_config.yml",
     "README.md",
     "Concepts 1/Week 1/03. MapReduce.md",
-    "Concepts 1/Week 2/01. Gossip.md",
     "Concepts 1/Week 2",
     "Concepts 1/Week 1/Combined Notes.md",
-    "Concepts 1/Week 1/00. CS Basics.md",
-    "Concepts 1/Week 1/01. Introduction to Clouds.md",
     "Concepts 1/Week 1/02. Clouds are Distributed Systems.md",
     "Cloud Computing Concepts - 1.md",
     "Concepts 1",
