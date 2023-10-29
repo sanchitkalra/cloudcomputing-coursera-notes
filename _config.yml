@@ -1,3 +1,9 @@
 remote_theme: just-the-docs/just-the-docs
 title: Cloud Computing Notes
 description: These are my notes that I make while going through the courses in the cloud computing specialisation on coursera.
+repository: "sanchitkalra/cloudcomputing-coursera-notes"
+compress_html:
+  blanklines: true
+mathjax:
+  source: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML
+  config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } })'
