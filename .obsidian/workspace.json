@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd7a6da81b470b52",
+        "id": "1278c97b718972ee",
         "type": "tabs",
         "children": [
           {
-            "id": "88dc3129cb2d8f7f",
+            "id": "a68da9c8beba97e8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,15 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88dc3129cb2d8f7f",
+  "active": "a68da9c8beba97e8",
   "lastOpenFiles": [
+    "Concepts 1/Week 2/Week 2.md",
+    "Concepts 1/Week 1/Week 1.md",
+    "Concepts 1/Week 2/01. Gossip.md",
+    "Concepts 1/Concepts 1.md",
     "Index.md",
     "README.md",
     "Concepts 1/Week 1/00. CS Basics.md",
-    "Concepts 1/Week 1/README.md",
-    "Concepts 1/Week 2/README.md",
     "Concepts 1/README.md",
-    "Concepts 1/Week 2/01. Gossip.md",
     "Concepts 1/Week 1/03. MapReduce.md",
     "Concepts 1/Week 1/02. Clouds are Distributed Systems.md",
     "Concepts 1/Week 1/01. Introduction to Clouds.md",

@@ -5,6 +5,7 @@ nav_order: 2
 has_children: true
 permalink: /Concepts 1
 ---
+---
+# Concepts 1
 
-<!--[Week 1](/cloudcomputing-coursera-notes/Concepts 1/Week 1)-->
-<!--[Week 2](/cloudcomputing-coursera-notes/Concepts 1/Week 2)-->
+Concepts 1 goes over the fundamental concepts in Cloud and Distributed Systems.
