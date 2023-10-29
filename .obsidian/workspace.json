@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1278c97b718972ee",
+        "id": "70c20d7665ae4a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "a68da9c8beba97e8",
+            "id": "a8d2a1bd5e399ba9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts 1/Week 2/01. Gossip.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts 1/Week 2/01. Gossip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts 1/Week 2/01. Gossip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Concepts 1/Week 2/01. Gossip.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,25 +138,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a68da9c8beba97e8",
+  "active": "a8d2a1bd5e399ba9",
   "lastOpenFiles": [
+    "Concepts 1/Week 2/02. Membership.md",
+    "Concepts 1/Week 2/01. Gossip.md",
+    "Concepts 1/Week 2/push_based_gossip_expr.png",
+    "Concepts 1/Week 2/Week 2.md",
+    "Concepts 1/Week 1/Combined Notes.md",
     "Concepts 1/Week 1/03. MapReduce.md",
     "Concepts 1/Week 1/02. Clouds are Distributed Systems.md",
     "Concepts 1/Week 1/01. Introduction to Clouds.md",
     "Concepts 1/Week 1/00. CS Basics.md",
     "Concepts 1/Concepts 1.md",
-    "Concepts 1/Week 2/Week 2.md",
-    "Concepts 1/Week 2/01. Gossip.md",
     "Concepts 1/Week 1/Week 1.md",
     "Index.md",
     "README.md",
     "Concepts 1/README.md",
-    "Screenshot 2023-10-29 at 11.02.10 AM.png",
     "Concepts.md",
     "00..md",
     "_config.yml",
     "Concepts 1/Week 2",
-    "Concepts 1/Week 1/Combined Notes.md",
     "Cloud Computing Concepts - 1.md",
     "Concepts 1",
     "Concepts 1/Week 1",
