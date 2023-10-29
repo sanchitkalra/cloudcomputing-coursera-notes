@@ -1,9 +1,9 @@
 ---
 layout: default
-title: UI Components
+title: Concepts 1
 nav_order: 3
 has_children: true
-permalink: /docs/ui-components
+permalink: /Concepts 1
 ---
 
 <!--[Week 1](/cloudcomputing-coursera-notes/Concepts 1/Week 1)-->
