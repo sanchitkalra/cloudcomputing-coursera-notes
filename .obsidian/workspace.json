@@ -11,8 +11,12 @@
             "id": "a8d2a1bd5e399ba9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Concepts 1/Week 2/02. Membership.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Concepts 1/Week 2/02. Membership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Concepts 1/Week 2/02. Membership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Concepts 1/Week 2/02. Membership.md"
+              }
             }
           }
         ]
@@ -140,8 +148,8 @@
   },
   "active": "a8d2a1bd5e399ba9",
   "lastOpenFiles": [
-    "Concepts 1/Week 2/02. Membership.md",
     "Concepts 1/Week 2/01. Gossip.md",
+    "Concepts 1/Week 2/02. Membership.md",
     "Concepts 1/Week 2/push_based_gossip_expr.png",
     "Concepts 1/Week 2/Week 2.md",
     "Concepts 1/Week 1/Combined Notes.md",
