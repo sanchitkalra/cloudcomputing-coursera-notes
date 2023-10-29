@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts 1/Concepts 1.md",
+                "file": "Concepts 1/Week 2/01. Gossip.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts 1/Concepts 1.md",
+                "file": "Concepts 1/Week 2/01. Gossip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts 1/Concepts 1.md",
+                "file": "Concepts 1/Week 2/01. Gossip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts 1/Concepts 1.md"
+                "file": "Concepts 1/Week 2/01. Gossip.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "a68da9c8beba97e8",
   "lastOpenFiles": [
-    "Concepts 1/Week 2/Week 2.md",
-    "Concepts 1/Week 2/01. Gossip.md",
-    "Concepts 1/Week 1/Week 1.md",
     "Concepts 1/Week 1/03. MapReduce.md",
     "Concepts 1/Week 1/02. Clouds are Distributed Systems.md",
     "Concepts 1/Week 1/01. Introduction to Clouds.md",
     "Concepts 1/Week 1/00. CS Basics.md",
     "Concepts 1/Concepts 1.md",
+    "Concepts 1/Week 2/Week 2.md",
+    "Concepts 1/Week 2/01. Gossip.md",
+    "Concepts 1/Week 1/Week 1.md",
     "Index.md",
     "README.md",
     "Concepts 1/README.md",
